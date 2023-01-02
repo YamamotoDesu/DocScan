@@ -4,6 +4,7 @@ You can find the entire development process in the following article:
 https://betterprogramming.pub/swift-it-yourself-siy-develop-your-own-ocr-on-ios-13-with-visionkit-800b34c792ed
 
 
+
 <img width="300" alt="スクリーンショット 2023-01-02 16 19 11" src="https://user-images.githubusercontent.com/47273077/210203293-294c30fb-95be-465e-83d8-53545957e0e2.png">
 
 ```swift
